@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xc_super/text_freemarker/text_freemarker.iml" filepath="$PROJECT_DIR$/xc_super/text_freemarker/text_freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc_super/xc_common/xc_common.iml" filepath="$PROJECT_DIR$/xc_super/xc_common/xc_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc_super/xc_model/xc_model.iml" filepath="$PROJECT_DIR$/xc_super/xc_model/xc_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc_super/xc_service_api/xc_service_api.iml" filepath="$PROJECT_DIR$/xc_super/xc_service_api/xc_service_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc_super/xc_service_manager_cms/xc_service_manager_cms.iml" filepath="$PROJECT_DIR$/xc_super/xc_service_manager_cms/xc_service_manager_cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc_super/xc_super.iml" filepath="$PROJECT_DIR$/xc_super/xc_super.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc_super/xc_utils/xc_utils.iml" filepath="$PROJECT_DIR$/xc_super/xc_utils/xc_utils.iml" />
+    </modules>
+  </component>
+</project>
